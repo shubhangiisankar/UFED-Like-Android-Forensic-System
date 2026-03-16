@@ -1,0 +1,5 @@
+android_dump/
+android_dump.zip
+logs/
+__pycache__/
+*.pyc
